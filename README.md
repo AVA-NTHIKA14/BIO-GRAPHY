@@ -1,2 +1,3 @@
 # BIO-GRAPHY
-Personal Biography
+Personal Biography to showcase skills and media presence 
+made with html and css
